@@ -2,21 +2,21 @@
 
 Bu proje, rastgele kelimeler üreten **küçük bir deneydir**.
 
-Her sayfa yenilemesinde,
-anlamsız ama tutarlı görünen
+Her sayfa yenilemesinde,  
+anlamsız ama tutarlı görünen  
 kelime dizileri oluşturur.
 
-Bir amacı yok.
-Bir hedefi yok.
+Bir amacı yok.  
+Bir hedefi yok.  
 Sadece çalışır.
 
 ---
 
 ## Ne yapar?
 
-- Kaydırcıkça Rastgele kelimeler üretir
-- Tek dosya (`index.html`) ile çalışır
-- İnternet bağlantısına ihtiyaç duymaz (Sanırım :d)
+- Kaydırdıkça rastgele kelimeler üretir  
+- Tek dosya (`index.html`) ile çalışır  
+- İnternet bağlantısına ihtiyaç duymaz (sanırım :d)
 
 ---
 
@@ -24,12 +24,16 @@ Sadece çalışır.
 
 Bazen bir şeyin var olması için  
 **mantıklı bir gerekçeye ihtiyacı yoktur**.
-Çünkü Olova "Neden Olmasın" Der Ve Sadece Yapar
 
-Bu proje,
-- deneme yapmak için,
-- küçük şeyler yayınlamanın rahatlığını hatırlamak için,
-- “büyük proje” baskısından uzak durmak için var.
+Çünkü Olova  
+“neden olmasın” der  
+ve sadece yapar.
+
+Bu proje:
+
+- deneme yapmak için  
+- küçük şeyler yayınlamanın rahatlığını hatırlamak için  
+- “büyük proje” baskısından uzak durmak için var
 
 ---
 
@@ -37,24 +41,48 @@ Bu proje,
 
 1. Sayfayı aç  
 2. Kelimelere bak  
-3. Yenile.
-4. Tekrar bak
-5. yenile.
-6. bida bak
-7. belki kaydırırsın?
-9. belki anlamlı kelimeler bulursun?
-11. işsiz gibi....
-12. niye yazıyorum lan hala?
+3. Yenile  
+4. Tekrar bak  
+5. Yenile  
+6. Bir daha bak  
+7. Belki kaydırırsın  
+8. Belki anlamlı kelimeler bulursun  
+9. İşsiz gibi  
+10. Niye yazıyorum lan hâlâ?
 
 Hepsi bu.
+
 ---
 
+## Uyarı
 
-##UYARI:
-***Çıkabilecek Herhangi Bir Kelimeden Ben Sorumlu Değilim. Çünkü Kelimeler Rastgele Oluşur.***
+Oluşabilecek herhangi bir kelimeden **sorumlu değilim.**
+Kelimeler rastgele oluşur.
+
+Ben sadece kapıyı açtım.
+
+
 ---
 
 ## Daha Ne İstiyorsun Birader?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Başka hiçbir şey yok.
 
@@ -64,4 +92,5 @@ Başka hiçbir şey yok.
 
 MIT License
 
-İstediğin gibi kullan, değiştir, boz, Kafana Göre.
+İstediğin gibi kullan, değiştir, boz.  
+Kafana göre.
