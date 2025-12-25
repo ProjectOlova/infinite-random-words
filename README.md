@@ -51,6 +51,7 @@ Hepsi bu.
 
 
 ##UYARI:
+
 Çıkabilecek Herhangi Bir Kelimeden Ben Sorumlu Değilim.
 Çünkü Kelimeler Rastgele Oluşur.***
 ---
