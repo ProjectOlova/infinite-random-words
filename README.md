@@ -51,9 +51,7 @@ Hepsi bu.
 
 
 ##UYARI:
-
-Çıkabilecek Herhangi Bir Kelimeden Ben Sorumlu Değilim.
-Çünkü Kelimeler Rastgele Oluşur.***
+***Çıkabilecek Herhangi Bir Kelimeden Ben Sorumlu Değilim. Çünkü Kelimeler Rastgele Oluşur.***
 ---
 
 ## Daha Ne İstiyorsun Birader?
