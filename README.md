@@ -1,5 +1,8 @@
 # Infinite Random Words
 Link: "https://projectolova.github.io/infinite-random-words/"
+<p align="center">
+  <img src="images/preview.png" alt="Infinite Random Words Preview" width="700">
+</p>
 
 Bu proje, rastgele kelimeler üreten **küçük bir deneydir**.
 
